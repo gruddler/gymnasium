@@ -1,0 +1,16 @@
+hey everyone,
+             I am gruddler.this is my pen name so dont think how "weird" my name is.
+ well i didnt have any fascinating ideas so i decided to show you guys my java script skills.
+import java.util.*;
+public class website
+{
+public static void main (String args[])
+  {
+  Scanner in= new Scanner (System.in);
+  int i,a;
+  System.out.println("enter a number to calculae and display it's square vlaue");
+  i=in.nextInt();
+  a=i*i;
+  System.out.println("square value="+a);
+  }
+}
